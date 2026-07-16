@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Stuff I know:
-![Static Badge](https://img.shields.io/badge/python-passing), ![Static Badge](https://img.shields.io/badge/C%23(.NET)-blue) , ![Static Badge](https://img.shields.io/badge/Java-orange) , ![Static Badge](https://img.shields.io/badge/SQL-purple)
+![Static Badge](https://img.shields.io/badge/python-passing)
+![Static Badge](https://img.shields.io/badge/C%23(.NET)-blue) 
+![Static Badge](https://img.shields.io/badge/Java-orange)
+![Static Badge](https://img.shields.io/badge/SQL-purple)
