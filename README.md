@@ -2,6 +2,7 @@
 
 ## Current Project Teaser
 [![OutGunned Showcase](https://raw.githubusercontent.com/Grisbloo/OutGunnedShowcase/main/assets/OutGunnedshowcase1.gif)](https://github.com/Grisbloo/OutGunnedShowcase)
+
 [OutGunned](https://github.com/Grisbloo/OutGunnedShowcase): A Unity Project that I am currently the solo dev for, developing a historically accurate tank fighting game including modular component systems, with the player friendly and user friendly systems. Aiming to make a beta release by Christmas 2026.
 
 ## Stuff I know
