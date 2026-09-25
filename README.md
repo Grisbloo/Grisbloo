@@ -8,7 +8,7 @@
 # Tiny Toybox
 Feel free to check out some of the quick little weekend self made game jam things for Godot:
 
-[1. Cubic Survival](https://github.com/Grisbloo/TinyToys)
+[1. Cubic Survival](https://github.com/Grisbloo/TinyToys/releases/tag/cubic-survival-v1.0)
 
 ## Stuff I know
 ![Static Badge](https://img.shields.io/badge/Python-passing)
