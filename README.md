@@ -5,6 +5,9 @@
 
 [OutGunned](https://github.com/Grisbloo/OutGunnedShowcase): A Unity Project that I am currently the solo dev for, developing a historically accurate tank fighting game including modular component systems, with the player friendly and user friendly systems. Aiming to make a beta release by Christmas 2026 (The name is already planned on being changed (OutGunned is now simply a project name)).
 
+# And Another THING!
+Currently working on some CSS/HTML and React (also learning it in the process) for a personal derivative to chess.com, for the Japanese strategy board game Shogi (current name SHOG1) with plans to eventually release commercially. 
+
 # Tiny Toybox
 Feel free to check out some of the quick little weekend self made game jam things for Godot:
 
