@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy 
 
 ## Current Project Teaser
 [![OutGunned Showcase](https://raw.githubusercontent.com/Grisbloo/OutGunnedShowcase/main/assets/OutGunnedshowcase1.gif)](https://github.com/Grisbloo/OutGunnedShowcase)
