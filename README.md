@@ -15,8 +15,10 @@ Feel free to check out some of the quick little weekend self made game jam thing
 
 [1. Cubic Survival](https://github.com/Grisbloo/TinyToys/releases/tag/cubic-survival-v1.0)  
 (add a .gif when available to do so)  
+[2. Jungle Puzzle](https://github.com/Grisbloo/TinyToys/releases/tag/JunglePuzzle-v1)  
+(add a .gif when available to do so)  
 Potential other toys:  
-Open The Door, Don't Look Down, Push one box around, Magnet Boy, One Bullet	One projectile, Traffic Cop,
+Don't Look Down, Push one box around, Magnet Boy, One Bullet	One projectile, Traffic Cop,
 Keep It Alive, Hot Potato, The Floor Moves, Red Light Green Light
 
 ## Languages
